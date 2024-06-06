@@ -1,0 +1,7 @@
+{
+    "classification" : "jupyter-s3-conf",
+    "properties" : {
+        "s3.persistence.bucket" : "p8-lucile-data",
+        "s3.persistence.enabled" : "true"
+        }
+    }
